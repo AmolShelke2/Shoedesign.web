@@ -1,4 +1,4 @@
-# InstagramUiClone
+# ShoeDesignWeb
 
 Hey, for making my fundamental's strong in html and css i create the Innstagram homepage clone and hope you will love it !
 
